@@ -1,11 +1,12 @@
 # Aloha-Bird-Quest
 An app that lets users explore and learn about the different birds around them.
+### Developed by Khaen Dumbrique
 
 ~~# HTML Build
 Running it through HTML has some features removed. Features such as precise location and AR will not be available on the HTML build~~
 
 # iOS
-Note: A MacOS computer WITH XCode INSTALLED is needed to run on iOS
+Note: A MacOS computer WITH Xcode INSTALLED is needed to run on iOS
 1. Open Xcode and Your Project
 
     Double Click on the .xcodeproj
@@ -16,8 +17,7 @@ Note: A MacOS computer WITH XCode INSTALLED is needed to run on iOS
     Click the device dropdown menu and select your target device (e.g., iPhone 15 Pro, iPad, etc.). If you want to test on a physical iOS device, connect it to your Mac, and it should appear in the list.
 
 3. Check Signing and Capabilities
-    Click on the file at the top of the hierarchy.
-    In the Signing & Capabilities tab, select a valid Apple Developer account under Team.
+   Click on the file at the top of the hierarchy. In the Signing & Capabilities tab, select a valid Apple Developer account under Team.
 
 5. Build the Project
     Click the Play button to start running. Make sure your iPhone is plugged in.
