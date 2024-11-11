@@ -5,11 +5,10 @@ An app that lets users explore and learn about the different birds around them.
 Running it through HTML has some features removed. Features such as precise location and AR will not be available on the HTML build
 
 # iOS
-Note: A MacOS computer is needed to run on iOS
+Note: A MacOS computer WITH XCode INSTALLED is needed to run on iOS
 1. Open Xcode and Your Project
 
-    Launch Xcode from your Applications folder.
-    Open your project by going to File > Open and selecting your .xcodeproj or .xcworkspace file (whichever is available—use .xcworkspace if your project uses CocoaPods).
+    Double Click on the .xcodeproj
 
 2. Select a Target Device
 
