@@ -1,8 +1,8 @@
 # Aloha-Bird-Quest
 An app that lets users explore and learn about the different birds around them.
 
-# HTML Build
-Running it through HTML has some features removed. Features such as precise location and AR will not be available on the HTML build
+~~# HTML Build
+Running it through HTML has some features removed. Features such as precise location and AR will not be available on the HTML build~~
 
 # iOS
 Note: A MacOS computer WITH XCode INSTALLED is needed to run on iOS
@@ -16,10 +16,15 @@ Note: A MacOS computer WITH XCode INSTALLED is needed to run on iOS
     Click the device dropdown menu and select your target device (e.g., iPhone 15 Pro, iPad, etc.). If you want to test on a physical iOS device, connect it to your Mac, and it should appear in the list.
 
 3. Check Signing and Capabilities
-
-    Select your project in the Project Navigator (left sidebar), then click on your project name at the top of the central editor window.
-    Under Targets, select the main app target (often named after your project).
-    In the Signing & Capabilities tab, select a valid Apple Developer account under Team. If you’re just testing on a physical device and don't need full distribution capabilities, an Apple ID account is enough.
+    Click on the file at the top of the hierarchy.
+    In the Signing & Capabilities tab, select a valid Apple Developer account under Team.
 
 4. Build the Project
     Click the Play button to start running. Make sure your iPhone is plugged in.
+# Running it on Godot (Easiest Option)
+NOTE: AR and precise location are NOT available when running on Godot. 
+1. Download the Godot game engine
+    https://godotengine.org/download/archive/3.5.2-stable/
+2. Download Souce Code
+   
+3. Double Click on "project.godot" file. This should open up Godot with the project.
